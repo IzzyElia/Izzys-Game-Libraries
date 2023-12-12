@@ -1,0 +1,15 @@
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.csproj.AssemblyReference.cache
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.AssemblyInfoInputs.cache
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.AssemblyInfo.cs
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\bin\Debug\net6.0\IzzysGameLibrary.deps.json
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\bin\Debug\net6.0\IzzysGameLibrary.dll
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\bin\Debug\net6.0\IzzysGameLibrary.pdb
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\bin\Debug\net6.0\Izzy.dll
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\bin\Debug\net6.0\Izzy.pdb
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.csproj.CopyComplete
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.dll
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\refint\IzzysGameLibrary.dll
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\IzzysGameLibrary.pdb
+C:\Users\emmie\Documents\Development\IzzysGameLibrary\obj\Debug\net6.0\ref\IzzysGameLibrary.dll

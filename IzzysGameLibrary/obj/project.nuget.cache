@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "irAFZyj5qamSsEY4yLONz5Uuc93ZHlqdOpgDRP3IVg08CtQFno9NhFx5sqjxEoYeIZbfYF1gQRMp6zFtJiyzOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmie\\Documents\\Development\\IzzysGameLibrary\\IzzysGameLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmie\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
